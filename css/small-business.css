@@ -1,0 +1,157 @@
+/*!
+ * Start Bootstrap - Small Business (https://startbootstrap.com/templates/small-business)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-small-business/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+nav {
+  background-color: #ff471a;
+}
+
+footer {
+  background-color: #ff471a;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+#left-top {
+  width: 70%;
+  border: 2px solid black;
+  border-radius: 20px;
+  margin: auto;
+  padding: 20px 10px;
+}
+
+iframe {
+  width: 70%;
+  height: 400px;
+  border-radius: 10px;
+}
+
+.tooltext {
+  width: 60%;
+  display: inline-block;
+}
+
+.tool img{
+  float: inline-end;
+  width: 30%;
+  margin: auto;
+}
+
+#right-top {
+  width: 25%;
+  border: 2px solid black;
+  border-radius: 20px;
+  padding-top: 20px;
+  margin: auto;
+  float: right;
+}
+
+#right-top li{
+  font-weight: bold;
+  list-style-type: none;
+  font-size: 20px;
+}
+
+#mid-card {
+  background-color: tomato;
+  text-align: center;
+  border-radius: 30px;
+  padding: 20px 50px;
+  margin: 30px 0px;
+}
+
+#headericon {
+  margin-right: 10px;
+  border: 1px solid white;
+  border-radius: 50%;
+  height: 40px;
+}
+
+.nav-link {
+  border: 2px solid white;
+  color: black;
+  padding: 5px 10px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+h2 {
+  font-weight: 400;
+}
+
+#acct {
+  text-align: center;
+}
+
+.customer-photo {
+  border-radius: 50%;
+  height:200px;
+  width: 200px;
+}
+
+.testimonial {
+  width: 20%;
+}
+
+#CTA {
+  color: white;
+  float: right;
+  width: 20%;
+  background-color: #ff471a;
+}
+
+#CTA2 {
+  margin-left: 15%;
+  color: white;
+  background-color: #ff471a;
+  border-radius: 5px;
+  padding: 5px 10px;
+  font-weight: bold;
+  border: 2px solid black;  
+}
+
+#top-cta {
+  padding: 20px 20px;
+  border: 2px solid black;
+  margin: 30px 30px;
+}
+
+#bottom-pitch {
+  color: white;
+  font-weight: bold;
+  width: 80%;
+  font-size: 20px;
+  margin: auto;
+}
+.quote {
+  width: 70%;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.spacer {
+  width: 10%;
+}
+
+.row {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.quote p{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 30px;
+}
