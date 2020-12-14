@@ -1,61 +1,17 @@
-# [Start Bootstrap - Small Business](https://startbootstrap.com/templates/small-business/)
+# BEATSTARS Example Design (IST 322)
 
-[Small Business](https://startbootstrap.com/templates/small-business/) is a responsive marketing landing page template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
+This website mock-up stems from a semester-long project in my Digital Strategy and Marketing course. We were tasked with drafting an SEO-focused one-page website based off of some initial wireframes we had drawn up in class.
 
-## Preview
+To clarify, the idea of Beatstars is not something I have come up with, it is an existing business I decided to piggy-back on for the purposes of completing the assignment. 
 
-[![Small Business Preview](https://startbootstrap.com/assets/img/screenshots/templates/small-business.png)](https://startbootstrap.github.io/startbootstrap-small-business/)
+I wouldn't consider this a great display of my technical ability, but rather my attention to detail regarding front-end design. 
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-small-business/)**
+# index.html
 
-## Status
+This portion of the assignment was simply to create a one-page website design that was attractive and showed adherence to some sort of keyword plan. You'll notice I center myself around "buy beats online", "sell beats", and "beats for sale". This isn't meant to be an art project or branding exercise, but rather getting the hang of optimizing website content for SERP and specific keywords. 
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-small-business/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-small-business.svg)](https://www.npmjs.com/package/startbootstrap-small-business)
-[![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-small-business.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-small-business)
-[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-small-business/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-small-business)
-[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-small-business/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-small-business?type=dev)
+# landing-age-a.html/landing-page-b.html
 
-## Download and Installation
+These two iterations of index.html were part of a task to first develop a landing page (I chose to make an informerical-ish one) and then practice forming/implementing a hypothesis for A/B testing. My course of action here was the pretty simple choice of using a video instead of a photo, however I believe and have been taught to believe that smaller changes are more effective for this form of experimentation. The change in media format is enough to warrant a tangible change in user behavior or more specifically session length, so I felt comfortable keeping it simple here.
 
-To begin using this template, choose one of the following options to get started:
-
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/templates/small-business/)
-* Install via npm: `npm i startbootstrap-small-business`
-* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-small-business.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-small-business)
-
-## Usage
-
-### Basic Usage
-
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
-
-### Advanced Usage
-
-After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
-
-You must have npm and Gulp installed globally on your machine in order to use these features.
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-small-business/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/templates/small-business/).
-
-## About
-
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-* <https://startbootstrap.com>
-* <https://twitter.com/SBootstrap>
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**.
-
-* <http://davidmiller.io>
-* <https://twitter.com/davidmillerskt>
-* <https://github.com/davidtmiller>
-
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2020 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-small-business/blob/gh-pages/LICENSE) license.
+Apart from the experimentation, I though a great tactic for this particular business would be to show off the amount of features made available to the target audience (sellers/music producers) and display social proof. My thinking was that amateur musicians (the target audience for this landing page) are desperately and typically unsuccessfully making it on their own as digitial nomads, so the idea of fully "investing" time and resources into this service can be a hard sell. Overloading them with information to say otherwise feels like the best course of action here. This also supports my choice of divergence for the A/B experiment, as rather than having to read through this wall of information, the video might to a better job at convincing users who aren't interested in reading all of that. 
